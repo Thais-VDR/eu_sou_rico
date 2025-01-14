@@ -6,4 +6,4 @@ Primeiro aplicativo em Flutter.
 
 <img src="C:\Users\estagio01.ti\Pictures\Screenshots\aplicativo_eu_sou_rico.png" alt="Imagem de um RUBI">
 
-##Veja em breve mais projetos em FLUTTER :)
+#Veja em breve mais projetos em FLUTTER :)#

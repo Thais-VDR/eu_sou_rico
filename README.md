@@ -4,8 +4,7 @@ Primeiro aplicativo em Flutter.
 
 É um aplicativo em que tem um rubi e não faz NADA.
 
-<img src="![image](https://github.com/user-attachments/assets/4c0935c8-cbbb-4708-9941-ea685a4d437d)
-" alt="Imagem de um RUBI">
+![aplicativo_eu_sou_rico](https://github.com/user-attachments/assets/f98898d0-0c71-4393-9255-38587d8bbc6b)
 
 
 Veja em breve mais projetos em FLUTTER :)
